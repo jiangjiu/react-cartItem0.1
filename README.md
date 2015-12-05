@@ -6,8 +6,10 @@ This repo is a cartItem demo.
 - Lint with ESlint and Airbnb's .eslintrc
 - Build with Webpack
 - Support [hot module replacement](https://webpack.github.io/docs/hot-module-replacement.html)
-- Based on [ruanyf/react-babel-webpack-boilerplate.git](https://github.com/ruanyf/react-babel-webpack-boilerplate)
-- 
+
+
+Based on [ruanyf/react-babel-webpack-boilerplate.git](https://github.com/ruanyf/react-babel-webpack-boilerplate)
+ 
 
 ## How to use
 

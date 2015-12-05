@@ -11,6 +11,9 @@ module.exports = {
     contentBase: './app',
     port: 8080
   },
+  resolve: {
+    extensions: ['', '.js', '.jsx']
+  },
   entry: [
     'webpack/hot/dev-server',
     'webpack-dev-server/client?http://localhost:8080',
